@@ -1,0 +1,5 @@
+n=int(input("Число:"))
+
+result=hex(n)[2:]
+
+print(result)
