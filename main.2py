@@ -1,0 +1,8 @@
+a=int(input("Олівці:"))
+b=int(input("Ручки:"))
+c=int(input("Фломастери:"))
+d=int(input("Олівці ціна:"))
+
+total=a*d+b*(d+2)+c*(d+9)
+
+print(total)
