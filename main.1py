@@ -1,0 +1,5 @@
+a=int(input("Число1:"))
+b=int(input("Число2:"))
+c=int(input("Число3:"))
+
+print(c,b,a)
